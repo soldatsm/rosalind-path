@@ -12,6 +12,6 @@ if __name__ == '__main__':
 
 
 # Actulally module `this` much more interesting
-# then you can think
+# then you can probably think
 # https://stackoverflow.com/questions/43577404/purpose-of-import-this
 # https://stackoverflow.com/questions/37301273/attributes-of-python-module-this
